@@ -1,33 +1,13 @@
 ### Hi there 👋
-<!--
-Welcome to my github page wave
-I am a student at 42 Paris and also an IT lawyer computerbalance_scale
 
-Jehanne's 42 stats
+I've been studying digital structure at 42 Paris school for 3 years now.
+I'm currently focusing on web3 projects, like DeFi applications, and learning solidity language.
 
-chart_with_upwards_trend I am currently working on arrow_heading_down
+🔭 My prettiest projects are:
+- [x] [ft_transcendence](https://github.com/mmaj0708/ft_transcendence) - Build a website to play pong games (TypeScript frameworks)
+- [x] [Webserv](https://github.com/mmaj0708/Webserv) - reproduce a tiny nginx server (C++)
+- [x] [Kubernetes & clustering](https://github.com/mmaj0708/ft_services) - Reproduce a basic shell like bash (C)
 
-[NestJS, React] transcendence: team coding of a multiplayer Pong game
-exams @ 42
-white_check_mark I have already achieved arrow_heading_down
+![42 profile](https://badge42.vercel.app/api/v2/cl4h81teu005909l43ihhg0xr/stats?cursusId=21&coalitionId=11)
 
-[C++] webserv: writing an HTTP server with my mates Melchior & Valentin
-[C++] C++ containers && C++ tester: Vector, Map, Stack
-[C] Minishell: team coding of a simple bash shell with my mate Emma
-[PHP, Dockerfile] Kubernetes & clustering: setting up an infrastructure of different services (Grafana, Wordpress, phpMyAdmin, MySQL, InfluxDB, FTPS, nginx)
-[C] Philosophers: program using threads, mutex, semaphore, forks
-
-
-**mmaj0708/mmaj0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaj0708)](https://github.com/anuraghazra/github-readme-stats)
