@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I've been studying digital structure at 42 Paris school for 3 years now.
-I'm currently focusing on web projects, mastering main frameworks like React and Vue. I'm also learning to use Web3 libraries and develop DeFi applications with Solidity language.
+After exploring some web projects, I'm currently focusing on developing my software skills, mastering C and C++ and starting some Python projects. I also learned to develop DeFi applications with Solidity language for fun !
 
 #### My Portfolio is here : [melchiormaj.com](https://www.melchiormaj.com)
 
