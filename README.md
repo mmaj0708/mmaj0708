@@ -10,7 +10,6 @@ After exploring some web projects, I'm currently focusing on developing my softw
 - [x] [Webserv](https://github.com/mmaj0708/Webserv) - reproduce a tiny nginx server (C++)
 - [x] [Kubernetes & clustering](https://github.com/mmaj0708/ft_services) - setting up an infrastructure providing differents services (BASH)
 
-![42 profile](https://badge42.vercel.app/api/v2/cl4h81teu005909l43ihhg0xr/stats?cursusId=21&coalitionId=11)
 
 
 
